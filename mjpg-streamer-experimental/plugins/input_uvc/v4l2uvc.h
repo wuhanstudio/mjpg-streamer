@@ -41,7 +41,7 @@
 #include <linux/videodev2.h>
 
 #include "../../mjpg_streamer.h"
-#define NB_BUFFER 4
+#define NB_BUFFER 1
 
 
 #define IOCTL_RETRY 4
